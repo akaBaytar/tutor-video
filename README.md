@@ -13,11 +13,11 @@
 
 ## Live Demo
 
-- You can access the live demo via [Vercel](https://tutor-burakbilgili.vercel.app).
+- You can access the live demo via [Vercel](https://tutor-video.netlify.app).
 
 ## Screen
 
-[<img src="./public/screen.png" />](https://tutor-burakbilgili.vercel.app)
+[<img src="./public/screen.png" />](https://tutor-video.netlify.app)
 
 ## Features
 
