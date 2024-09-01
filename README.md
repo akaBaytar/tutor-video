@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-- You can access the live demo via [Vercel](https://tutor-video.netlify.app).
+- You can access the live demo via [Netlify](https://tutor-video.netlify.app).
 
 ## Screen
 
